@@ -4,3 +4,9 @@ D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop
 D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csproj.CoreCompileInputs.cache
 D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop\MyShop.Services\obj\Debug\MyShop.Services.dll
 D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop\MyShop.Services\obj\Debug\MyShop.Services.pdb
+D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.Services\bin\Debug\MyShop.Services.dll
+D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.Services\bin\Debug\MyShop.Services.pdb
+D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csprojAssemblyReference.cache
+D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csproj.CoreCompileInputs.cache
+D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.Services\obj\Debug\MyShop.Services.dll
+D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.Services\obj\Debug\MyShop.Services.pdb
