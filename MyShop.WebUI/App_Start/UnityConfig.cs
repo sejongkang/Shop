@@ -47,10 +47,16 @@ namespace MyShop.WebUI
 
             // TODO: Register your type's mappings here.
             // container.RegisterType<IProductRepository, ProductRepository>();
+            
+            // 인터페이스를 해당 클래스로 맵핑?(용어 치환 느낌?)
+            // 인터페이스(공통 규칙)을 지키는 클래스인 경우 유지보수가 쉬움, 코드 중복 없음
+            // 인터페이스 구현하는 클래스가 바뀔 경우 여기서만 수정하면 됨
             container.RegisterType<IRepository<Product>, SQLRepository<Product>>();
             container.RegisterType<IRepository<ProductCategory>, SQLRepository<ProductCategory>>();
+
             container.RegisterType<IRepository<BasketItem>, SQLRepository<BasketItem>>();
             container.RegisterType<IRepository<Basket>, SQLRepository<Basket>>();
+
             container.RegisterType<IBasketService, BasketService>();
         }
     }

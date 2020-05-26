@@ -29,9 +29,10 @@
                 <p>@item.Description</p>
             </div>
             <div class="col-lg-12">
-                <h4>@item.Price</h4>
+                <h4>$ @item.Price</h4>
             </div>
             <div class="col-lg-12">
+                @* Basket 컨트롤러에 AddtoBasket 액션으로 이동, 매개변수 item.Id *@
                 <a href="@Url.Action("AddtoBasket", "Basket", new { Id = item.Id })" class="btn btn-default">Add to Basket</a>
             </div>
         </div>
