@@ -51,11 +51,12 @@ namespace MyShop.WebUI
             // 인터페이스를 해당 클래스로 맵핑?(용어 치환 느낌?)
             // 인터페이스(공통 규칙)을 지키는 클래스인 경우 유지보수가 쉬움, 코드 중복 없음
             // 인터페이스 구현하는 클래스가 바뀔 경우 여기서만 수정하면 됨
+            // MSSQL 쓰거나 Oracle, MySQL 등 바껴도 컨트롤러 말고 여기만 변경.
             container.RegisterType<IRepository<Product>, SQLRepository<Product>>();
             container.RegisterType<IRepository<ProductCategory>, SQLRepository<ProductCategory>>();
-
             container.RegisterType<IRepository<BasketItem>, SQLRepository<BasketItem>>();
             container.RegisterType<IRepository<Basket>, SQLRepository<Basket>>();
+            container.RegisterType<IRepository<Customer>, SQLRepository<Customer>>();
 
             container.RegisterType<IBasketService, BasketService>();
         }
