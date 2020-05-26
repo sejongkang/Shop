@@ -10,3 +10,6 @@ D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop
 D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csproj.CoreCompileInputs.cache
 D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.Services\obj\Debug\MyShop.Services.dll
 D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.Services\obj\Debug\MyShop.Services.pdb
+D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.Services\bin\Debug\MyShop.Core.dll
+D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.Services\bin\Debug\MyShop.Core.pdb
+D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csproj.CopyComplete
