@@ -31,3 +31,4 @@ D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop
 D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.Migrations.Initial.resources
 D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.csproj.GenerateResource.cache
 D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.Migrations.AddCustomers.resources
+D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.Migrations.AddedOrders.resources
