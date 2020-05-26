@@ -30,3 +30,4 @@ D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop
 D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.csproj.CopyComplete
 D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.dll
 D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.pdb
+D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.Migrations.AddBasket.resources
