@@ -13,3 +13,12 @@ D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop
 D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.Services\bin\Debug\MyShop.Core.dll
 D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.Services\bin\Debug\MyShop.Core.pdb
 D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csproj.CopyComplete
+C:\Users\sejon\Source\Repos\Shop\MyShop.Services\bin\Debug\MyShop.Services.dll
+C:\Users\sejon\Source\Repos\Shop\MyShop.Services\bin\Debug\MyShop.Services.pdb
+C:\Users\sejon\Source\Repos\Shop\MyShop.Services\bin\Debug\MyShop.Core.dll
+C:\Users\sejon\Source\Repos\Shop\MyShop.Services\bin\Debug\MyShop.Core.pdb
+C:\Users\sejon\Source\Repos\Shop\MyShop.Services\obj\Debug\MyShop.Services.csprojAssemblyReference.cache
+C:\Users\sejon\Source\Repos\Shop\MyShop.Services\obj\Debug\MyShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\sejon\Source\Repos\Shop\MyShop.Services\obj\Debug\MyShop.Services.csproj.CopyComplete
+C:\Users\sejon\Source\Repos\Shop\MyShop.Services\obj\Debug\MyShop.Services.dll
+C:\Users\sejon\Source\Repos\Shop\MyShop.Services\obj\Debug\MyShop.Services.pdb

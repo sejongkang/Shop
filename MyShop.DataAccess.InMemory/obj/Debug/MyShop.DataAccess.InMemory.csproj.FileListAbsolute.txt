@@ -16,3 +16,12 @@ D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop
 D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.csproj.CopyComplete
 D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.dll
 D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.pdb
+C:\Users\sejon\Source\Repos\Shop\MyShop.DataAccess.InMemory\bin\Debug\MyShop.DataAccess.InMemory.dll
+C:\Users\sejon\Source\Repos\Shop\MyShop.DataAccess.InMemory\bin\Debug\MyShop.DataAccess.InMemory.pdb
+C:\Users\sejon\Source\Repos\Shop\MyShop.DataAccess.InMemory\bin\Debug\MyShop.Core.dll
+C:\Users\sejon\Source\Repos\Shop\MyShop.DataAccess.InMemory\bin\Debug\MyShop.Core.pdb
+C:\Users\sejon\Source\Repos\Shop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.csprojAssemblyReference.cache
+C:\Users\sejon\Source\Repos\Shop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.csproj.CoreCompileInputs.cache
+C:\Users\sejon\Source\Repos\Shop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.csproj.CopyComplete
+C:\Users\sejon\Source\Repos\Shop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.dll
+C:\Users\sejon\Source\Repos\Shop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.pdb

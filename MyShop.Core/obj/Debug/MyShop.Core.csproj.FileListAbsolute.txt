@@ -10,3 +10,8 @@ D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop
 D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.Core\obj\Debug\MyShop.Core.csproj.CoreCompileInputs.cache
 D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.Core\obj\Debug\MyShop.Core.dll
 D:\Users\SeJongKang\HOT\Developement\Projects\VIsualStudioProjects\MyShop\MyShop.Core\obj\Debug\MyShop.Core.pdb
+C:\Users\sejon\Source\Repos\Shop\MyShop.Core\bin\Debug\MyShop.Core.dll
+C:\Users\sejon\Source\Repos\Shop\MyShop.Core\bin\Debug\MyShop.Core.pdb
+C:\Users\sejon\Source\Repos\Shop\MyShop.Core\obj\Debug\MyShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\sejon\Source\Repos\Shop\MyShop.Core\obj\Debug\MyShop.Core.dll
+C:\Users\sejon\Source\Repos\Shop\MyShop.Core\obj\Debug\MyShop.Core.pdb
