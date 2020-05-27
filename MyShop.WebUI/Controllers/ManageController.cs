@@ -18,6 +18,8 @@ namespace MyShop.WebUI.Controllers
 
         public ManageController()
         {
+            // DB에서도 가능
+            //_userManager.AddToRole("", "Admin");
         }
 
         public ManageController(ApplicationUserManager userManager, ApplicationSignInManager signInManager)
