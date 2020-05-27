@@ -15,3 +15,4 @@ C:\Users\sejon\Source\Repos\Shop\MyShop.Core\bin\Debug\MyShop.Core.pdb
 C:\Users\sejon\Source\Repos\Shop\MyShop.Core\obj\Debug\MyShop.Core.csproj.CoreCompileInputs.cache
 C:\Users\sejon\Source\Repos\Shop\MyShop.Core\obj\Debug\MyShop.Core.dll
 C:\Users\sejon\Source\Repos\Shop\MyShop.Core\obj\Debug\MyShop.Core.pdb
+C:\Users\sejon\Source\Repos\Shop\MyShop.Core\obj\Debug\MyShop.Core.csprojAssemblyReference.cache
