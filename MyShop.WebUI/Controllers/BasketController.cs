@@ -60,7 +60,7 @@ namespace MyShop.WebUI.Controllers
                     SurName = customer.LastName,
                     ZipCode = customer.ZipCode
                 };
-                return View();
+                return View(order);
             }
             else
             {
@@ -68,10 +68,12 @@ namespace MyShop.WebUI.Controllers
             }
         }
         [HttpPost]
+        [Authorize]
         public ActionResult Checkout(Order order)
         {
             var basketItems = basketService.GetBasketItem(this.HttpContext);
             order.OrderStatus = "Order Created";
+            order.Email = User.Identity.Name;
             //process payment
 
             order.OrderStatus = "Payment Processed";
